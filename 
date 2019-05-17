@@ -1,0 +1,81 @@
+[33m4ea0a84[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m building MVP
+[33m74d55a1[m sales and marketing docs
+[33mecc2900[m forming various departments
+[33m978060e[m core team formed
+[33mf9f97e3[m company formation done
+[33m24d13c5[m demo change
+[33mf1ad6f4[m commit with sublime
+[33mf9113a2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m a simple message for SSH communication
+[33mac50d11[m this is change with SSH communication
+[33m055fe0c[m simple message to demonstrate the git push command
+[33me966d2c[m demostrating pull request in git
+[33m1f633b4[m Split off sayHello() method for hotswap demo.
+[33m969b9f5[m Add Cobertura unit test coverage.
+[33m7e6b4c0[m Oops, runtime classpath, not build classpath.
+[33m3a1c5cf[m Tidy up static analysis targets and add analyze target.
+[33mebaf802[m Always fork, because Ant misbehaves when calling the main class.
+[33m2b306a4[m Switch to JCommander argument parsing.
+[33mba0c355[m Exclude another PMD rule: ImmutableField.
+[33m82e9bf9[m Elaborate on CompareObjectsWithEquals exclusion.
+[33m162a43d[m Up the FindBugs version and bring PMD into the project.
+[33m6c61016[m Add FindBugs target, creating an "analysis" Ivy config.
+[33m82532fd[m Change Ivy resolve log to "download-only".
+[33meb767a4[m Make dist.dir in compile target.
+[33m782a5b7[m Oops, remove old lib.dir reference.
+[33m89d8464[m Fail if GPG fails.
+[33m5b60d37[m Tweak the README, making it Markdown.
+[33m24d47c4[m Reduce redundant Ivy conf.
+[33m9c123a4[m Tidy up a little bit.
+[33mb439b02[m Merge with other unpulled work.
+[33mfa4040f[m Fix comment typo.
+[33m60c4d2a[m Bring in Lombok.
+[33mf0540f5[m Move more towards Ivy, using configurations.
+[33mfe81156[m Fix up javadoc target, again. (title, classpath)
+[33m5683a1a[m Add the build classpath to checkstyle (workaround).
+[33mfc6829e[m Fix up whitespace.
+[33m4e583c8[m Fix up "javadoc" target.
+[33m5aec0c6[m Delete hotswap's cache.properties on "clean".
+[33me83181a[m Standardize the built jar files (.jar, -all.jar).
+[33mab19772[m Push more configuration out to project.properties.
+[33mfeb3cc3[m Just remove the optimize target.
+[33m504dbeb[m Update to JUnit4 tests.
+[33m1febd90[m Add tags target.
+[33m9de6ac5[m Don't build the jar just to run it.
+[33m362bea2[m Make the classpath part of the test compile.
+[33mb4c7ad1[m Remove redundant compile call.
+[33meb96e5c[m Update the README file.
+[33me71924f[m Add --loop option for better hotswap demoing.
+[33m4f79a5f[m Move lib/ detection into init target.
+[33m18e70cb[m Add target for creating Maven bundles.
+[33m6b527ee[m Fix a couple of little mistake omissions.
+[33m0bb298d[m Add hotswap target.
+[33m5233211[m Move taskdef's into their targets.
+[33mdd38541[m Fix up the unit test a bit.
+[33m4786810[m Updated README for Ivy.
+[33m50297d7[m Make use of the new library.
+[33meacca15[m Add Ivy support.
+[33mce4034e[m Remove one test target.
+[33mea65b1b[m Tidy up checkstyle XML a bit.
+[33me58788e[m Get rid of the unused doc/ directory.
+[33m49e8542[m Fix typo in package documentation.
+[33mcb96489[m Added paragraph about lib/.
+[33mfc7c7d6[m Added the UNLICENSE.
+[33m52f6fb4[m Add support for libraries (lib/).
+[33me88c5c0[m Added a paragraph about the new change in README.
+[33m0b0c20b[m Added a proguard task.
+[33m9f0cd0a[m Rename the jar property.
+[33md98a542[m Generate Javadoc HTML.
+[33mb1d6f77[m Copy resources, too.
+[33m9d9283b[m Removed need for Ant-Contrib. Apply task does fine.
+[33mcc77b58[m Updates to README.
+[33m80eee70[m Added Checkstyle target and made it happy.
+[33mbd0b34b[m Created a .gitignore.
+[33mb831568[m Added descriptions.
+[33m5c65222[m Added a simple run target.
+[33m551a0e1[m Fit that into 80 lines, please.
+[33m963bc21[m Added includeantruntime attributes.
+[33m11c12d1[m Added the Astyle format target.
+[33m0a1c09c[m Adjusted formatting of Java source.
+[33me508c36[m Added README.
+[33m60b0631[m Oops, fix the jar build.
+[33m059a262[m Initial commit of basic structure.
